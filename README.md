@@ -3,7 +3,7 @@
 Este proyecto es un portafolio de mis proyectos realizados durante el bootcamp, creado puramente con HTML5 y CSS3. Se enfoca en demostrar la apariencia visual de diferentes páginas creadas a partir de nuevos métodos y herramientas. 
 ## **Características**
 + Interfaz que imita a [Pinterest](https://pinterest.es/).
-+ Interfaz de mi propio sitio web basado en un personaje de mi elección.
++ Interfaz de [mi primer sitio web](https://michellereyesk.github.io/miprimersitio/) basado en un personaje de mi elección.
 + Redes Sociales y otros medios de contacto.
 ## **Tecnologías Utilizadas**
 + HTML5: Para la estructura básica del sitio.
